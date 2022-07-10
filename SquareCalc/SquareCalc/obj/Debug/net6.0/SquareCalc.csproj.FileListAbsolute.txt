@@ -1,0 +1,12 @@
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\bin\Debug\net6.0\SquareCalc.deps.json
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\bin\Debug\net6.0\SquareCalc.dll
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\bin\Debug\net6.0\SquareCalc.pdb
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.csproj.AssemblyReference.cache
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.AssemblyInfoInputs.cache
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.AssemblyInfo.cs
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.csproj.CoreCompileInputs.cache
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.dll
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\refint\SquareCalc.dll
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\SquareCalc.pdb
+D:\Projects\GitHub\TestMindBox\SquareCalc\SquareCalc\obj\Debug\net6.0\ref\SquareCalc.dll
