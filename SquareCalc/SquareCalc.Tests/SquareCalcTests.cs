@@ -6,7 +6,7 @@ namespace SquareCalc.Tests
     public class SquareCalcTests
     {
         /// <summary>
-        /// Тестируем отрицательный радиус круга
+        /// РўРµСЃС‚РёСЂСѓРµРј РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Р№ СЂР°РґРёСѓСЃ РєСЂСѓРіР°
         /// </summary>
         [TestMethod]
         public void CircleNegativeRadiusTest()
@@ -15,7 +15,7 @@ namespace SquareCalc.Tests
         }
 
         /// <summary>
-        /// Тестируем отрицательные стороны треугольника
+        /// РўРµСЃС‚РёСЂСѓРµРј РѕС‚СЂРёС†Р°С‚РµР»СЊРЅС‹Рµ СЃС‚РѕСЂРѕРЅС‹ С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°
         /// </summary>
         [TestMethod]
         public void TriangleNegativeSidesTest()
@@ -27,7 +27,7 @@ namespace SquareCalc.Tests
         }
 
         /// <summary>
-        /// Тестируем вычисление площади круга
+        /// РўРµСЃС‚РёСЂСѓРµРј РІС‹С‡РёСЃР»РµРЅРёРµ РїР»РѕС‰Р°РґРё РєСЂСѓРіР°
         /// </summary>
         [TestMethod]
         public void CircleSqrCalculationTest()
@@ -43,7 +43,7 @@ namespace SquareCalc.Tests
         }
 
         /// <summary>
-        /// Тестируем вычисление площади треугольника
+        /// РўРµСЃС‚РёСЂСѓРµРј РІС‹С‡РёСЃР»РµРЅРёРµ РїР»РѕС‰Р°РґРё С‚СЂРµСѓРіРѕР»СЊРЅРёРєР°
         /// </summary>
         [TestMethod]
         public void TriangleSqrCalculationTest()
@@ -59,7 +59,7 @@ namespace SquareCalc.Tests
         }
 
         /// <summary>
-        /// Тестируем прямоугольный треугольник
+        /// РўРµСЃС‚РёСЂСѓРµРј РїСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
         /// </summary>
         [TestMethod]
         public void RightAngleTriangleTest()
@@ -75,7 +75,7 @@ namespace SquareCalc.Tests
         }
 
         /// <summary>
-        /// Тестируем не прямоугольный треугольник
+        /// РўРµСЃС‚РёСЂСѓРµРј РЅРµ РїСЂСЏРјРѕСѓРіРѕР»СЊРЅС‹Р№ С‚СЂРµСѓРіРѕР»СЊРЅРёРє
         /// </summary>
         [TestMethod]
         public void NotRightAngleTriangleTest()
