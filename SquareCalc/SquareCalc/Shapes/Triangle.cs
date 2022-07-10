@@ -59,7 +59,7 @@ namespace SquareCalc.Shapes
         /// Проверка, является ли треугольник прямоугольным
         /// </summary>
         /// <returns></returns>
-        private bool CheckRightTriangle()
+        protected bool CheckRightTriangle()
         {
             double maxSide = new[] { Side1, Side2, Side3 }.Max();
             double maxSideSqr = maxSide * maxSide;
